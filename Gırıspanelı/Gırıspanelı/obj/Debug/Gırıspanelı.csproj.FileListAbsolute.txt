@@ -1,0 +1,10 @@
+C:\Users\semih\Desktop\C# dersleri\Gırıspanelı\Gırıspanelı\bin\Debug\Gırıspanelı.exe.config
+C:\Users\semih\Desktop\C# dersleri\Gırıspanelı\Gırıspanelı\bin\Debug\Gırıspanelı.exe
+C:\Users\semih\Desktop\C# dersleri\Gırıspanelı\Gırıspanelı\bin\Debug\Gırıspanelı.pdb
+C:\Users\semih\Desktop\C# dersleri\Gırıspanelı\Gırıspanelı\obj\Debug\Gırıspanelı.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\C# dersleri\Gırıspanelı\Gırıspanelı\obj\Debug\Gırıspanelı.Form1.resources
+C:\Users\semih\Desktop\C# dersleri\Gırıspanelı\Gırıspanelı\obj\Debug\Gırıspanelı.Properties.Resources.resources
+C:\Users\semih\Desktop\C# dersleri\Gırıspanelı\Gırıspanelı\obj\Debug\Gırıspanelı.csproj.GenerateResource.cache
+C:\Users\semih\Desktop\C# dersleri\Gırıspanelı\Gırıspanelı\obj\Debug\Gırıspanelı.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\C# dersleri\Gırıspanelı\Gırıspanelı\obj\Debug\Gırıspanelı.exe
+C:\Users\semih\Desktop\C# dersleri\Gırıspanelı\Gırıspanelı\obj\Debug\Gırıspanelı.pdb
